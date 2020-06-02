@@ -2,7 +2,7 @@ import os
 
 from flask import Flask, request, render_template, send_from_directory
 
-__author__ = 'ghanihidayat'
+__author__ = 'TimHore'
 
 app = Flask(__name__)
 
